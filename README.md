@@ -29,7 +29,8 @@ Placer les modèles dans le dossier templates.
 ## Structure du Projet
 Voici la structure du projet :
 
-book-cover-generator/
+book-cover-generator
+
 ├── templates/            # Dossier pour les modèles
 
 │   ├── fantasy.jpg       # Modèle Fantasy
@@ -48,9 +49,11 @@ book-cover-generator/
 
 └── README.md             # Documentation du projet
 
+--
 
 ##Dépendances
+
 Python 3.x : Le langage de programmation utilisé.
 
-Pillow : Une bibliothèque pour manipuler des images. Installez-la avec :
+Pillow : Une bibliothèque pour manipuler des images. 
 
