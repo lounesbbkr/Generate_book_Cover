@@ -54,13 +54,21 @@ Voici la structure du projet :
 Copy
 book-cover-generator/
 ├── templates/            # Dossier pour les modèles
+
 │   ├── fantasy.jpg       # Modèle Fantasy
+
 │   ├── romance.jpg       # Modèle Romance
+
 │   ├── mystery.jpg       # Modèle Mystery
+
 │   ├── scifi.jpg         # Modèle Science-Fiction
+
 │   └── nonfiction.jpg    # Modèle Non-Fiction
+
 ├── main.py               # Script Python principal
+
 ├── requirements.txt      # Fichier des dépendances
+
 └── README.md             # Documentation du projet
 Dépendances
 Python 3.x : Le langage de programmation utilisé.
