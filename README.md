@@ -49,11 +49,5 @@ book-cover-generator
 
 └── README.md             # Documentation du projet
 
---
 
-##Dépendances
-
-Python 3.x : Le langage de programmation utilisé.
-
-Pillow : Une bibliothèque pour manipuler des images. 
 
