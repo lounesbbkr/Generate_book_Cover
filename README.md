@@ -24,7 +24,7 @@ Un outil simple pour générer des couvertures de livres personnalisées.
    pip install -r requirements.txt
 Placer les modèles dans le dossier templates.
 
---
+---
 
 ## Structure du Projet
 Voici la structure du projet :
