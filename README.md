@@ -1,6 +1,6 @@
 # Book Cover Generator
 
-Un outil simple pour générer des couvertures de livres personnalisées.
+Un outil simple pour générer des couvertures de livres meme personnalisées.
 
 ---
 
