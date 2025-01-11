@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import filedialog, messagebox, colorchooser
 from PIL import Image, ImageDraw, ImageFont
 
-# Modèles de mèmes (ajoute tes propres images dans le dossier 'templates')
+# Modèles de mèmes 
 TEMPLATES = {
     "Distracted Boyfriend": "templates/distracted_boyfriend.jpg",
     "Drake Hotline Bling": "templates/drake_hotline_bling.jpg",
